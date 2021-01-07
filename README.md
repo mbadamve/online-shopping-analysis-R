@@ -1,1 +1,1 @@
-# online-shopping-analysis-R
+# Analysis of e-commerce shopping patterns
