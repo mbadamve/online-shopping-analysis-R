@@ -30,6 +30,10 @@ All the above are R packages, they can be installed by using the command install
 
 More information aboout these packages can be found [here](https://www.rdocumentation.org/)
 
+## Files in the repo:
+
+There is one code file (R) and data(.csv) file in this repo. Download both of them in a single directory and run the file to see the model results and predictions.
+
 ## Running the file:
 
 It is easy to run the file in RStudio, please make sure all the packages are installed first before running the file.
